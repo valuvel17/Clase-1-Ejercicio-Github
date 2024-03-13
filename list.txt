@@ -1,16 +1,16 @@
 Guillermo Areosa (210030) -> Usuario de GitHub: gareosa 
 
-Alvarez  Cardozo,  Franco  Emanuel					
+Alvarez  Cardozo,  Franco  Emanuel (294234) -> Usuario GitHub: Francokbd					
 Aramburú  Zulamian,  Ignacio -> Usuario de GitHub: NachoAramburu				
 Azor  Dávila,  Valentin -> Usuario de GitHub: valepalmares
-Barrabino  Iriarte,  Julieta					
+Barrabino  Iriarte,  Julieta -> Usuario de GitHub: juliBarra12					
 Basualdo  Pola,  Andrea  Lucía					
 Berón  Pacheco,  Facundo					
-Cabrera  Iglesias,  Martín	-> Usuario de GitHub: martincabrera612				
-Cantera  Morales,  Maria  Virginia					
-Choroszucha  Ferreira,  Daniel					
-Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov					
-Corallo  Fabiano,  Joaquín					
+Cabrera  Iglesias,  Martín	-> Usuario de GitHub: martincabrera612					
+Cantera  Morales,  Maria  Virginia -> Usuario de Github: vircm					
+Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					
+Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov
+Corallo  Fabiano,  Joaquín -> Usuario de GitHub: JoaquinCorallo
 Darricarrere  Sosa,  Juan  Marcos					
 Di Benedetto  Vernengo,  Antonella  Sarha					
 Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		
@@ -22,10 +22,10 @@ Guala  Fajardo,  Mauricio  Germán
 Hegui  Suares,  Noelia  Larisa					
 Lemos  Kaphammel,  Juan  Alejo					
 Miranda  Correa,  Rodrigo					
-Pera  Puime,  Sebastian	(269946) -> Usuario de GitHub: s2448 				
-Roux  Pereyra,  Martín					
+Pera  Puime,  Sebastian					
+Roux  Pereyra,  Martín (254820) -> Usuario de GitHub: martinrouxpereyra				
 Silva  Lopez,  Nadia  Camila - nadiacamila					
 Suarez  Merino,  Agustín  Ignacio					
-Valiunas  Pérez,  Romina  Natalí					
-van der Ouw  Camacho,  Mathías					
-Vázquez  Vaucheret,  Ana					
+Valiunas  Pérez,  Romina  Natalí - rvaliunas			
+van der Ouw  Camacho,  Mathías
+Vázquez  Vaucheret,  Ana (290091) -> Usuario de GitHub: AnaVazquez290091

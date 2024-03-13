@@ -1,19 +1,19 @@
 Guillermo Areosa (210030) -> Usuario de GitHub: gareosa 
 
-Alvarez  Cardozo,  Franco  Emanuel					
-Aramburú  Zulamian,  Ignacio					
-Azor  Dávila,  Valentin					
+Alvarez  Cardozo,  Franco  Emanuel (294234) -> Usuario GitHub: Francokbd					
+Aramburú  Zulamian,  Ignacio -> Usuario de GitHub: NachoAramburu				
+Azor  Dávila,  Valentin -> Usuario de GitHub: valepalmares
 Barrabino  Iriarte,  Julieta -> Usuario de GitHub: juliBarra12					
 Basualdo  Pola,  Andrea  Lucía					
 Berón  Pacheco,  Facundo					
 Cabrera  Iglesias,  Martín					
-Cantera  Morales,  Maria  Virginia					
-Choroszucha  Ferreira,  Daniel					
-Clavijo  Vassallo,  Andrés  Alejandro					
-Corallo  Fabiano,  Joaquín					
+Cantera  Morales,  Maria  Virginia -> Usuario de Github: vircm					
+Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					
+Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov
+Corallo  Fabiano,  Joaquín -> Usuario de GitHub: JoaquinCorallo
 Darricarrere  Sosa,  Juan  Marcos					
 Di Benedetto  Vernengo,  Antonella  Sarha					
-Duarte  Echevarne,  Maximiliano  Jesus					
+Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		
 Eiraldi  Rosas,  María  Cecilia					
 Fiorentino  Cotelo,  Leonardo					
 Geribon  Perez,  Esteban  Daniel  (181919) -> Usuario de GitHub: EstebanGeribon 					
@@ -23,9 +23,9 @@ Hegui  Suares,  Noelia  Larisa
 Lemos  Kaphammel,  Juan  Alejo					
 Miranda  Correa,  Rodrigo					
 Pera  Puime,  Sebastian					
-Roux  Pereyra,  Martín					
-Silva  Lopez,  Nadia  Camila					
+Roux  Pereyra,  Martín (254820) -> Usuario de GitHub: martinrouxpereyra				
+Silva  Lopez,  Nadia  Camila - nadiacamila					
 Suarez  Merino,  Agustín  Ignacio					
-Valiunas  Pérez,  Romina  Natalí					
+Valiunas  Pérez,  Romina  Natalí - rvaliunas			
 van der Ouw  Camacho,  Mathías					
 Vázquez  Vaucheret,  Ana					

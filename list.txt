@@ -13,7 +13,7 @@ Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov
 Corallo  Fabiano,  Joaquín					
 Darricarrere  Sosa,  Juan  Marcos					
 Di Benedetto  Vernengo,  Antonella  Sarha					
-Duarte  Echevarne,  Maximiliano  Jesus					
+Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		
 Eiraldi  Rosas,  María  Cecilia					
 Fiorentino  Cotelo,  Leonardo					
 Geribon  Perez,  Esteban  Daniel  (181919) -> Usuario de GitHub: EstebanGeribon 					
@@ -23,7 +23,7 @@ Hegui  Suares,  Noelia  Larisa
 Lemos  Kaphammel,  Juan  Alejo					
 Miranda  Correa,  Rodrigo					
 Pera  Puime,  Sebastian					
-Roux  Pereyra,  Martín (254820) -> Usuario de GitHub: martinrouxpereyra		
+Roux  Pereyra,  Martín (254820) -> Usuario de GitHub: martinrouxpereyra				
 Silva  Lopez,  Nadia  Camila - nadiacamila					
 Suarez  Merino,  Agustín  Ignacio					
 Valiunas  Pérez,  Romina  Natalí					

@@ -22,7 +22,7 @@ Guala  Fajardo,  Mauricio  Germán
 Hegui  Suares,  Noelia  Larisa					
 Lemos  Kaphammel,  Juan  Alejo					
 Miranda  Correa,  Rodrigo					
-Pera  Puime,  Sebastian					
+Pera  Puime,  Sebastian	(269946) -> Usuario de GitHub: s2448 				
 Roux  Pereyra,  Martín					
 Silva  Lopez,  Nadia  Camila					
 Suarez  Merino,  Agustín  Ignacio					

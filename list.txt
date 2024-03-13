@@ -10,7 +10,7 @@ Cabrera  Iglesias,  Martín
 Cantera  Morales,  Maria  Virginia					
 Choroszucha  Ferreira,  Daniel					
 Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov					
-Corallo  Fabiano,  Joaquín					
+Corallo  Fabiano,  Joaquín -> Usuario de GitHub: JoaquinCorallo 					
 Darricarrere  Sosa,  Juan  Marcos					
 Di Benedetto  Vernengo,  Antonella  Sarha					
 Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		

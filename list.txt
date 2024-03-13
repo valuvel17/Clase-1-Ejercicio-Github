@@ -12,12 +12,8 @@ Choroszucha  Ferreira,  Daniel
 Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov					
 Corallo  Fabiano,  Joaquín					
 Darricarrere  Sosa,  Juan  Marcos					
-<<<<<<< HEAD
-Duarte  Echevarne,  Maximiliano  Jesus					
-=======
 Di Benedetto  Vernengo,  Antonella  (274198) -> Usuario de GitHub: Antodibe					
 Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		
->>>>>>> dc6e9bc3da4a08b718303c23bf34e0cd04379af6
 Eiraldi  Rosas,  María  Cecilia					
 Fiorentino  Cotelo,  Leonardo					
 Geribon  Perez,  Esteban  Daniel  (181919) -> Usuario de GitHub: EstebanGeribon 					

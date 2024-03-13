@@ -5,8 +5,8 @@ Aramburú  Zulamian,  Ignacio -> Usuario de GitHub: NachoAramburu
 Azor  Dávila,  Valentin -> Usuario de GitHub: valepalmares
 Barrabino  Iriarte,  Julieta -> Usuario de GitHub: juliBarra12					
 Basualdo  Pola,  Andrea  Lucía					
-Berón  Pacheco,  Facundo -> Usuario de GitHub: Facundo27				
-Cabrera  Iglesias,  Martín					
+Berón  Pacheco,  Facundo -> Usuario de GitHub: Facundo27													
+Cabrera  Iglesias,  Martín	-> Usuario de GitHub: martincabrera612					
 Cantera  Morales,  Maria  Virginia -> Usuario de Github: vircm					
 Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					
 Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov

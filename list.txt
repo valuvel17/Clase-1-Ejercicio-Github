@@ -6,7 +6,7 @@ Azor  Dávila,  Valentin -> Usuario de GitHub: valepalmares
 Barrabino  Iriarte,  Julieta -> Usuario de GitHub: juliBarra12					
 Basualdo  Pola,  Andrea  Lucía					
 Berón  Pacheco,  Facundo					
-Cabrera  Iglesias,  Martín					
+Cabrera  Iglesias,  Martín	-> Usuario de GitHub: martincabrera612					
 Cantera  Morales,  Maria  Virginia -> Usuario de Github: vircm					
 Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					
 Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov
@@ -27,5 +27,5 @@ Roux  Pereyra,  Martín (254820) -> Usuario de GitHub: martinrouxpereyra
 Silva  Lopez,  Nadia  Camila - nadiacamila					
 Suarez  Merino,  Agustín  Ignacio					
 Valiunas  Pérez,  Romina  Natalí - rvaliunas			
-van der Ouw  Camacho,  Mathías					
+van der Ouw  Camacho,  Mathías
 Vázquez  Vaucheret,  Ana (290091) -> Usuario de GitHub: AnaVazquez290091

@@ -3,9 +3,9 @@ Guillermo Areosa (210030) -> Usuario de GitHub: gareosa
 Alvarez  Cardozo,  Franco  Emanuel (294234) -> Usuario GitHub: Francokbd					
 Aramburú  Zulamian,  Ignacio -> Usuario de GitHub: NachoAramburu				
 Azor  Dávila,  Valentin -> Usuario de GitHub: valepalmares
-Barrabino  Iriarte,  Julieta -> Usuario de GitHub: juliBarra12					
-Basualdo  Pola,  Andrea  Lucía					
+Barrabino  Iriarte,  Julieta -> Usuario de GitHub: juliBarra12									
 Berón  Pacheco,  Facundo -> Usuario de GitHub: Facundo27													
+Basualdo  Pola,  Andrea  Lucía -> Usuario de GitHub: lbasualdo			
 Cabrera  Iglesias,  Martín	-> Usuario de GitHub: martincabrera612					
 Cantera  Morales,  Maria  Virginia -> Usuario de Github: vircm					
 Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					

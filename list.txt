@@ -9,7 +9,7 @@ Berón  Pacheco,  Facundo
 Cabrera  Iglesias,  Martín					
 Cantera  Morales,  Maria  Virginia					
 Choroszucha  Ferreira,  Daniel					
-Clavijo  Vassallo,  Andrés  Alejandro					
+Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov					
 Corallo  Fabiano,  Joaquín					
 Darricarrere  Sosa,  Juan  Marcos					
 Di Benedetto  Vernengo,  Antonella  Sarha					

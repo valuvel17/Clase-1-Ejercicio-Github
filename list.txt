@@ -8,7 +8,7 @@ Basualdo  Pola,  Andrea  Lucía
 Berón  Pacheco,  Facundo					
 Cabrera  Iglesias,  Martín					
 Cantera  Morales,  Maria  Virginia					
-Choroszucha  Ferreira,  Daniel					
+Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					
 Clavijo  Vassallo,  Andrés  Alejandro					
 Corallo  Fabiano,  Joaquín					
 Darricarrere  Sosa,  Juan  Marcos					

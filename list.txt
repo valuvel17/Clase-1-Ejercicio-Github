@@ -19,7 +19,7 @@ Fiorentino  Cotelo,  Leonardo
 Geribon  Perez,  Esteban  Daniel  (181919) -> Usuario de GitHub: EstebanGeribon 					
 Grillo  Grant,  Carlos  Ignacio					
 Guala  Fajardo,  Mauricio  Germán					
-Hegui  Suares,  Noelia  Larisa					
+Hegui  Suares,  Noelia  Larisa	-> NoeliaHegui				
 Lemos  Kaphammel,  Juan  Alejo					
 Miranda  Correa,  Rodrigo					
 Pera  Puime,  Sebastian					
@@ -28,4 +28,5 @@ Silva  Lopez,  Nadia  Camila - nadiacamila
 Suarez  Merino,  Agustín  Ignacio					
 Valiunas  Pérez,  Romina  Natalí - rvaliunas			
 van der Ouw  Camacho,  Mathías					
-Vázquez  Vaucheret,  Ana					
+Vázquez  Vaucheret,  Ana				
+	

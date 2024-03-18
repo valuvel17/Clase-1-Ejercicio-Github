@@ -11,7 +11,7 @@ Cantera  Morales,  Maria  Virginia -> Usuario de Github: vircm
 Choroszucha  Ferreira,  Daniel -> Usuario de GitHub: DanielChoroszucha					
 Clavijo  Vassallo,  Andrés  Alejandro -> Usuario de GitHub: andresclavijov
 Corallo  Fabiano,  Joaquín -> Usuario de GitHub: JoaquinCorallo
-Darricarrere  Sosa,  Juan  Marcos					
+Darricarrere  Sosa,  Juan  Marcos -> Usuario de GitHub: marcosdarri					
 Di Benedetto  Vernengo,  Antonella  (274198) -> Usuario de GitHub: Antodibe					
 Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		
 Eiraldi  Rosas,  María  Cecilia					

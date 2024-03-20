@@ -14,7 +14,7 @@ Corallo  Fabiano,  Joaquín -> Usuario de GitHub: JoaquinCorallo
 Darricarrere  Sosa,  Juan  Marcos -> Usuario de GitHub: marcosdarri					
 Di Benedetto  Vernengo,  Antonella  (274198) -> Usuario de GitHub: Antodibe					
 Duarte  Echevarne,  Maximiliano  Jesus		-> Usuario de GitHub: mduarte-sen		
-Eiraldi  Rosas,  María  Cecilia					
+Eiraldi  Rosas,  María  Cecilia	-> Usuario de GitHub: ceciliaeiraldi
 Fiorentino  Cotelo,  Leonardo					
 Geribon  Perez,  Esteban  Daniel  (181919) -> Usuario de GitHub: EstebanGeribon 					
 Grillo  Grant,  Carlos  Ignacio (192479) -> Usuario de GitHub: cgrillog 				
